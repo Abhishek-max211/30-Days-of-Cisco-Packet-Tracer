@@ -17,3 +17,7 @@ PC2: 192.168.1.20 /24
 
 ## Result
 Both PCs can successfully ping each other.
+## Topology
+PC1 — Switch — PC2
+
+![Network Topology](topology.png)
