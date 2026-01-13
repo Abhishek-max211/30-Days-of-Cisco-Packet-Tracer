@@ -6,6 +6,9 @@ Create a simple LAN using a switch and two PCs and test connectivity.
 ## Topology
 PC1 — Switch — PC2
 
+
+![Network Topology](image.png)
+
 ## IP Configuration
 PC1: 192.168.1.10 /24  
 PC2: 192.168.1.20 /24  
@@ -17,7 +20,4 @@ PC2: 192.168.1.20 /24
 
 ## Result
 Both PCs can successfully ping each other.
-## Topology
-PC1 — Switch — PC2
 
-![Network Topology](topology.png)
