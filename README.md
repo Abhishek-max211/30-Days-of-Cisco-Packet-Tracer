@@ -69,5 +69,5 @@ This repo proves:
 Networking | CCNA | Cybersecurity Learner  
 
 🔗 GitHub: (https://github.com/Abhishek-max211)  
-🔗 LinkedIn: (https://www.linkedin.com/in/abhishek-pundir-334473314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 LinkedIn: (https://www.linkedin.com/in/abhishek-pundir-334473314?)
 
