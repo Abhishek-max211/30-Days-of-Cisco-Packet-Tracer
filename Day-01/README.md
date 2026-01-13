@@ -10,8 +10,8 @@ PC1 — Switch — PC2
 
 
 ## IP Configuration
-PC1: 192.168.1.10 /24  
-PC2: 192.168.1.20 /24  
+PC1: 192.168.1.1/24  
+PC2: 192.168.1.2/24  
 
 ## Task Performed
 - Connected devices using copper straight-through cable
