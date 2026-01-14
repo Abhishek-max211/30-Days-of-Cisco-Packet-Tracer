@@ -68,6 +68,6 @@ This repo proves:
 **Abhishek Pundir**  
 Networking | CCNA | Cybersecurity Learner  
 
-🔗 GitHub: (your link here)  
-🔗 LinkedIn: (your link here)
+🔗 GitHub: (https://github.com/Abhishek-max211)  
+🔗 LinkedIn: (https://www.linkedin.com/in/abhishek-pundir-334473314)
 
