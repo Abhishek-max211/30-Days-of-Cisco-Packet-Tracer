@@ -43,7 +43,7 @@ This repo proves:
 | Day 13 | NAT |
 | Day 14 | Week-2 Project |
 | Day 15-29 | Advanced Labs |
-| Day 30 | Smart Campus Final Project |
+| Day 30 | Full Enterprise Final Project |
 
 ---
 
