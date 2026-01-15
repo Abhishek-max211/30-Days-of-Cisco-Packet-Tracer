@@ -48,7 +48,7 @@ This repo proves:
 ---
 
 ## 🏆 Final Project
-**Smart & Secure Campus Network**
+**Full Enterprise Network**
 - VLANs
 - Routing
 - DHCP
