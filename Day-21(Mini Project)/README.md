@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ace7387-4681-4c51-bff8-94737178e8e7" /># 🌐 Multi-Protocol Routing Lab (OSPF + EIGRP + Static)
+# 🌐 Multi-Protocol Routing Lab (OSPF + EIGRP + Static)
 
 ![Topology](image.png)
 
